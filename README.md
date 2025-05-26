@@ -3,7 +3,7 @@
 ## Project Overview
 This Python application generates a parametric model of a Möbius strip, calculates its geometric properties, and provides 3D visualization. The implementation satisfies the requirements of creating a mathematical model with accurate geometric calculations and visual representation.
 
-![Mobius Strip Visualization](mobius_strip_visualization.png)
+![Mobius Strip Visualization](3D_Plot.png)
 
 ## Mathematical Background
 
